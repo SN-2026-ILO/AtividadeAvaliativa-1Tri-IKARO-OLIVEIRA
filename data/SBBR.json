@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T11:04:57.766613+00:00",
+  "updated_at": "2026-05-07T11:09:24.666767+00:00",
   "airport_icao": "SBBR",
   "airport_name": "Brasilia",
   "source": "AviationStack",
@@ -658,8 +658,8 @@
       "airport": "SBCT",
       "airport_name": "Curitiba",
       "scheduled": "2026-05-07T07:40:00+00:00",
-      "time_iso": "2026-05-07T07:40:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-07T07:33:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "TP5798",
@@ -667,8 +667,8 @@
       "airport": "SBCT",
       "airport_name": "Curitiba",
       "scheduled": "2026-05-07T07:40:00+00:00",
-      "time_iso": "2026-05-07T07:40:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-07T07:33:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "AD3018",
@@ -676,8 +676,8 @@
       "airport": "SBCT",
       "airport_name": "Curitiba",
       "scheduled": "2026-05-07T07:40:00+00:00",
-      "time_iso": "2026-05-07T07:40:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-07T07:33:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "G31454",
