@@ -1,9 +1,63 @@
 {
-  "updated_at": "2026-05-07T11:09:27.039183+00:00",
+  "updated_at": "2026-05-07T13:22:09.579874+00:00",
   "airport_icao": "SBMG",
   "airport_name": "Maringa",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "AD4190",
+      "airline": "Azul Linhas Aéreas Brasileiras",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-05-07T11:20:00+00:00",
+      "time_iso": "2026-05-07T11:20:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3214",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:25:00+00:00",
+      "time_iso": "2026-05-07T10:13:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JL5524",
+      "airline": "Japan Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:25:00+00:00",
+      "time_iso": "2026-05-07T10:13:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "QR8428",
+      "airline": "QR",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:25:00+00:00",
+      "time_iso": "2026-05-07T10:13:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "DL6231",
+      "airline": "DL",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:25:00+00:00",
+      "time_iso": "2026-05-07T10:13:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AR8177",
+      "airline": "AR",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:25:00+00:00",
+      "time_iso": "2026-05-07T10:13:00+00:00",
+      "status": "em voo"
+    },
     {
       "callsign": "AD4129",
       "airline": "Azul Linhas Aéreas Brasileiras",
@@ -186,6 +240,15 @@
     }
   ],
   "departures": [
+    {
+      "callsign": "G31137",
+      "airline": "GOL Linhas aéreas inteligentes",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-05-07T08:20:00+00:00",
+      "time_iso": "2026-05-07T08:20:00+00:00",
+      "status": "actual"
+    },
     {
       "callsign": "AD4169",
       "airline": "Azul Linhas Aéreas Brasileiras",
